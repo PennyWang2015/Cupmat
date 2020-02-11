@@ -1,7 +1,11 @@
-# Cupmat v1.0
+# Cupmat v1.0.2
 
 对此项目感兴趣的伙伴可以移步到TB:
 https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-16818518790.4.3fc62259IjZHnF&id=611418420287
+
+Adafruit_NeoPixel库下载后需要放到Arduino IDE的libraries目录中才可以正常使用:
+Cupmat/杯子底座/Adafruit_NeoPixel/
+
 
 1. 准备物料
 - 电阻式压力传感器（SEN0294） - DFRobot家出品
